@@ -7,7 +7,8 @@
   <tr><td>200</td><td>0,26</td><td>16 млн</td></tr>
   <tr><td>400</td><td>2,23</td><td>128 млн</td></tr>
   <tr><td>600</td><td>7,47</td><td>432 млн</td></tr>
-  <tr><td>800</td><td>17,83</td><td>1024 млн</td></tr>
-  <tr><td>1000</td><td>31,19</td><td>2000 млн</td></tr>
-  <tr><td>1500</td></tr>
+  <tr><td>800</td><td>15,1</td><td>1024 млн</td></tr>
+  <tr><td>1000</td><td>26,7</td><td>2 млрд</td></tr>
+  <tr><td>1500</td><td>102,1</td><td>6,75 млрд</td></tr>
+  <tr><td>2000</td><td>198,5</td><td>16 млрд</td></tr>
 </table>
